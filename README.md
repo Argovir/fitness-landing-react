@@ -1,1 +1,1 @@
-# fitness-landing-reac
+# fitness-landing-react
